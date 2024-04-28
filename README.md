@@ -17,10 +17,6 @@ Deploy simplifies the process of executing custom Lua scripts in Roblox games, a
 
 This repository contains the releases for Deploy. You can download the latest version of the executor and related files from the [Releases](https://github.com/whoisttg/deploy-rblx/releases) page.
 
-### Available Releases
-
-- **Deploy v0.0.1**: Initial release featuring core script execution functionality.
-
 ## Getting Started
 
 To begin using Deploy, download the latest release from the [Releases](https://github.com/whoisttg/deploy-rblx/releases) page and follow the installation instructions provided in the release notes.
